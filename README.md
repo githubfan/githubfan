@@ -10,7 +10,7 @@
 - 😄 Pronouns: he, they
 - ⚡ Fun fact: I'm a boy
 
-# my github stats
+### My GitHub Stats
 
 ![GitHubFan's github stats](https://github-readme-stats.vercel.app/api?username=githubfan&show_icons=true)
 
