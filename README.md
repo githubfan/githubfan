@@ -2,12 +2,8 @@
 
 ### A few facts about me
 
-- 🔭 I’m currently working on client projects and updating my website
-- 🌱 I’m currently learning mongodb
-- 👯 I’m looking to collaborate on a discordjs currency bot
-- 📫 How to reach me: codingmaster24@aol.com or https://discord.gg/ws4s6j5
-- 😄 Pronouns: he, they
-- ⚡ Fun fact: I'm a boy
+- 🔭 I’m currently working on client websites & finally making a portfolio
+- 📫 How to reach me: joshkalu18@gmail.com
 
 ### My GitHub Stats
 
