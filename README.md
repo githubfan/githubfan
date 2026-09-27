@@ -3,7 +3,6 @@ I'm Josh - a first-year Computer Science student at the University of Bath, who 
 
 [![My Skills](https://skillicons.dev/icons?i=js,python,html,css,figma,wordpress&theme=dark)](https://skillicons.dev)
 
-### My GitHub Stats ⚡
 
 
 
